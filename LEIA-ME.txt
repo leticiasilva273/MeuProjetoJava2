@@ -1,0 +1,14 @@
+PROJETO JAVA - EXEMPLO
+
+Arquivos criados:
+src/br/leticia/WeilGraficos.java
+src/br/leticia/Exemplo.java
+
+Para compilar, abra o terminal na pasta MeuProjetoJava e execute:
+javac -d bin src/br/leticia/*.java
+
+Para executar:
+java -cp bin br.leticia.Exemplo
+
+A janela deve abrir com um círculo vermelho crescendo.
+Pressione ESC para fechar a janela.
